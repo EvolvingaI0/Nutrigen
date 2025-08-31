@@ -1,0 +1,5 @@
+{
+  "name": "AI Nutrition Report Generator",
+  "description": "An application that takes raw form data about a user's health and fitness and uses AI to generate a professional, premium report with personalized analysis, charts, and recommendations.",
+  "requestFramePermissions": []
+}
